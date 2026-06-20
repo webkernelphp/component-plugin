@@ -38,9 +38,7 @@
     },
     "extra": {
         "laravel": {
-            "providers": [
-                "Webkernel\\Component\\Plugin\\Providers\\PluginServiceProvider"
-            ]
+            "providers": []
         },
         "webkernel": {
             "package_repo": "git@github.com:webkernelphp/component-plugin.git",
